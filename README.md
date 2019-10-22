@@ -1,8 +1,21 @@
-# Lista4_GuilhermeLeal
+# Huffman Files
+
+Número da Lista: 3
+Conteúdo da Disciplina: Greed
+
+## Alunos
+
+|Matrícula| Aluno|
+|--|--|
+|15/0128312| Guilherme Leal|
+
+## Instalação
+Linguagem: python
 
 
-### Informações
+## Uso
+Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-1. Algoritmo de Huffman - Comprime e descomprime (utilizando heap)
+> python3 use.py exemplo.txt
 
-``` python use.py ```
+> output: exemplo_comprimido.txt exemplo_descomprimido.txt
